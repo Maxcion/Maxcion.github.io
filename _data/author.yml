@@ -11,6 +11,15 @@ workHistory:
   description: 至今未工作
 
 educationHistory:
+
+- education2:
+  organization: 长春理工大学
+  degree: 硕士
+  major: 计算机科学与技术
+  started: 2018
+  duration: (2018.9 - 至今)
+  description: 自学Python 目前在学习MATLAB 计算机视觉相关
+  
 - education1:
   organization: 烟台大学
   degree: 学士
@@ -19,13 +28,6 @@ educationHistory:
   duration: (2014.9 - 2018.7)
   description: 了解C/C++、JAVA、HTML、PHP 非常普通且并不专业的三流计算机专业大学生
   
-- education2:
-  organization: 长春理工大学
-  degree: 硕士
-  major: 计算机科学与技术
-  started: 2018
-  duration: (2018.9 - 至今)
-  description: 自学Python 目前在学习MATLAB 计算机视觉相关
 languages:
 - language1:
   name: 中文
@@ -33,6 +35,7 @@ languages:
 - language2:
   name: English
   proficiency: Limit
+  
 programmingSkills:
 - CPP:
   name: C/C++
