@@ -1,6 +1,6 @@
 ---
 layout: post_layout
-title: 开始篇
+title: Hello github
 time: 2019年02月27日 星期三
 location: 长春
 pulished: true
@@ -20,9 +20,4 @@ excerpt_separator: "```"
 此博客布局使用了 [Kejin](http://jekyllthemes.org/themes/easy-pure-blog/) 于jekyllthemes上发布的一个主题「简单博客」
 
 感谢 [Kejin](https://liungkejin.github.io/)！
-
-
-```bash
-echo "你好, Github！";
-```
 
