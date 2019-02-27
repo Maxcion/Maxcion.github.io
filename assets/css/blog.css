@@ -9,7 +9,7 @@ body {
     /*padding: 2rem 1rem;*/
     font-weight: 200;
     color: #333;
-    text-align: left;;
+    text-align: center;;
     /*text-shadow: 0 1px 0 rgba(0,0,0,.1);*/
     background-color: #fff;
     background-image: url(../img/bg-top.jpg);
@@ -26,7 +26,7 @@ body {
 }
 
 .authorheader {
-    text-align: center;
+    text-align: left;
 }
 
 .blogtitle {
