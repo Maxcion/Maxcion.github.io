@@ -72,3 +72,37 @@ Repository name的格式为 你的用户名.github.io
 [Github客户端](https://desktop.github.com/)
 
 安装完成，登录账号
+
+关联存储库，clone到本地
+
+然后就可以上传文件了
+
+
+
+## 5.选择一个主题
+
+下载一个jekyll主题到本地
+
+[http://jekyllthemes.org/](http://jekyllthemes.org/)
+
+解压，提取文件到你的clone到本地的库中
+
+此时客户端中有许多Changes
+
+简单描述Update，点击Commit to master递交，此时本地的状态已经记录
+
+点击Fetch origin进行push
+
+<img src="/assets/img/blogs/2019-02-27/5-1.jpg" />
+
+此时就已经更新完成了
+
+
+
+## 6.编写博客
+
+使用Markdown来写个人博客
+
+新的博客需要将.md文档放置于_posts文件夹
+
+使用Github客户端即可上传
