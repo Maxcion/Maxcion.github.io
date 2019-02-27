@@ -9,6 +9,8 @@ excerpt_separator: "```"
 
 注册 [github](https://github.com) 已有三年之久，但是三年来未曾使用过
 
+
+
 参考自：
 
 Cyzus：[傻瓜都可以利用github pages建博客](http://cyzus.github.io/2015/06/21/github-build-blog/)
@@ -23,7 +25,7 @@ TTyb：[建站教程](http://www.tybai.com/gitblogfirst/_%E5%BB%BA%E7%AB%99%E6%9
 
 打开[github](https://github.com/)网站进行注册
 
-<img src="/assets/img/blogs/2019-02-27/1-1register.JPG" width="200px" />
+<img src="/assets/img/blogs/2019-02-27/1-1.JPG" />
 
 然后登录
 
@@ -33,11 +35,11 @@ TTyb：[建站教程](http://www.tybai.com/gitblogfirst/_%E5%BB%BA%E7%AB%99%E6%9
 
 登录后点后上角去创建一个存储库
 
-<img src="/assets/img/blogs/2019-02-27/2-1.JPG" width="200px" />
+<img src="/assets/img/blogs/2019-02-27/2-1.JPG" />
 
 填写基本信息
 
-<img src="/assets/img/blogs/2019-02-27/2-2.JPG" width="200px" />
+<img src="/assets/img/blogs/2019-02-27/2-2.jpg" />
 
 Tips:
 
@@ -53,13 +55,13 @@ Repository name的格式为 你的用户名.github.io
 
 在仓库页面进入Settings
 
-<img src="/assets/img/blogs/2019-02-27/3-1.JPG" width="200px" />
+<img src="/assets/img/blogs/2019-02-27/3-1.jpg" />
 
 下拉鼠标看到GitHub Pages
 
 此时默认开启成功
 
-<img src="/assets/img/blogs/2019-02-27/3-2.JPG" width="200px" />
+<img src="/assets/img/blogs/2019-02-27/3-2.jpg" />
 
 
 
