@@ -17,7 +17,7 @@ excerpt_separator: "```"
 
 感谢 [github](https://github.com) 提供的 Github Pages 功能！
 
-此博客布局使用了 [Kejin](http://jekyllthemes.org/themes/easy-pure-blog/) 于jekyllthemes上发布的一个主题「简单博客」
+此博客布局使用了 Kejin 于jekyllthemes上发布的一个主题[「简单博客」](http://jekyllthemes.org/themes/easy-pure-blog/)
 
 感谢 [Kejin](https://liungkejin.github.io/)！
 
