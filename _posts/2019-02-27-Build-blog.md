@@ -7,10 +7,6 @@ pulished: true
 excerpt_separator: "```"
 ---
 
-注册 [github](https://github.com) 已有三年之久，但是三年来未曾使用过
-
-
-
 参考自：
 
 Cyzus：[傻瓜都可以利用github pages建博客](http://cyzus.github.io/2015/06/21/github-build-blog/)
