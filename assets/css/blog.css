@@ -117,6 +117,7 @@ nav.menu li:last-child {
 
 article.preview {
     margin-bottom: 4em;
+    background-image: url(../img/bg-top.jpg);
 }
 
 .post-title {
