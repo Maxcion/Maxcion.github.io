@@ -35,7 +35,7 @@ TTyb：[建站教程](http://www.tybai.com/gitblogfirst/_%E5%BB%BA%E7%AB%99%E6%9
 
 登录后点后上角去创建一个存储库
 
-<img src="/assets/img/blogs/2019-02-27/2-1.JPG" />
+<img src="/assets/img/blogs/2019-02-27/2-1.jpg" />
 
 填写基本信息
 
